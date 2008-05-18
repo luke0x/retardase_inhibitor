@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name = "retardase_inhibitor"
-  s.version = "1.0.20080508"
-  s.date = "2008-05-08"
+  s.version = "1.0.20080518"
+  s.date = "2008-05-18"
   s.summary = "Gemified retardase_inhibitor plugin"
   s.email = "avanie@gmail.com"
   s.homepage = "http://github.com/pager/retardase_inhibitor"

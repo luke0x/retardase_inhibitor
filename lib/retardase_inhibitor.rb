@@ -36,7 +36,6 @@ module UrlWriterRetardaseInhibitor
           default_url_options[:protocol] = 'http'
         else
           default_url_options[:host]     = 'localhost'
-          default_url_options[:port]     = 3000
           default_url_options[:protocol] = 'http'
         end
       end
